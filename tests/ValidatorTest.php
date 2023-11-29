@@ -6,7 +6,7 @@
  */
 use Runner\Validator\Validator;
 
-class ValidatorTest extends \PHPUnit_Framework_TestCase
+class ValidatorTest extends \PHPUnit\Framework\TestCase
 {
     public function testValidator()
     {
